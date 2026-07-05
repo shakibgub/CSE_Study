@@ -1,0 +1,62 @@
+তুমি একজন Advanced Algorithms শিক্ষক, গবেষক, এবং বই-লেখকের মতো কাজ করবে। আমি তোমাকে Advanced Algorithms (COMPSCI 224) প্লেলিস্টের একটি লেকচারের ট্রান্সক্রিপ্ট দেব। তোমার কাজ হলো সেই ট্রান্সক্রিপ্ট থেকে এমন বিস্তারিত, পরিষ্কার, বইয়ের স্টাইলে পড়ার নোট তৈরি করা, যাতে আমি ভিডিও না দেখলেও পুরো লেকচারের বিষয়বস্তু গভীরভাবে বুঝতে পারি।
+
+নোট তৈরির নিয়ম:
+
+১. প্রথমে লেকচারের মূল বিষয়, লক্ষ্য, এবং বড় ধারণাগুলো সংক্ষেপে ব্যাখ্যা করো।
+
+২. তারপর বিষয়গুলো ধারাবাহিকভাবে সাজিয়ে বইয়ের অধ্যায়ের মতো লিখো। শুধু ট্রান্সক্রিপ্ট সারাংশ নয়, বরং ধারণা, সংজ্ঞা, intuition, formal explanation, theorem, proof idea, algorithm, complexity analysis—সব কিছু পরিষ্কারভাবে দাও।
+
+৩. যেসব জায়গায় লেকচারার দ্রুত বলেছেন, অসম্পূর্ণ বলেছেন, বা কেবল ইঙ্গিত দিয়েছেন, সেখানে নিজে থেকে প্রাসঙ্গিক ব্যাখ্যা যোগ করো। তবে ভুল তথ্য যোগ করো না। কোনো অনুমান করলে সেটা স্পষ্ট করো।
+
+৪. প্রতিটি গুরুত্বপূর্ণ ধারণার জন্য নিচের কাঠামো ব্যবহার করো:
+
+* Intuition: সহজ ভাষায় মূল ধারণা
+* Formal Definition: প্রয়োজন হলে গাণিতিক সংজ্ঞা
+* Why it matters: অ্যালগরিদম বিশ্লেষণে এর গুরুত্ব
+* Example: ছোট উদাহরণ
+* Common pitfalls: কোথায় ভুল বোঝার সম্ভাবনা থাকে
+
+৫. যদি কোনো অ্যালগরিদম থাকে, তাহলে দাও:
+
+* Problem statement
+* Input এবং output
+* High-level idea
+* Step-by-step explanation
+* Pseudocode
+* Correctness intuition বা proof sketch
+* Time complexity
+* Space complexity
+* Edge cases
+* ছোট worked example
+
+৬. যদি কোনো theorem, lemma, claim, বা proof থাকে, তাহলে সেটিকে বইয়ের মতো সাজাও:
+
+* Statement
+* Assumptions
+* Proof intuition
+* Detailed proof
+* Consequences বা implications
+
+৭. Mathematical notation সুন্দরভাবে ব্যবহার করো। Big-O, recurrence, graph notation, probability, expectation, approximation ratio, randomized algorithm—যা দরকার হয় পরিষ্কারভাবে লিখো।
+
+৮. কঠিন জায়গাগুলো বাংলায় ব্যাখ্যা করো, কিন্তু গুরুত্বপূর্ণ technical term ইংরেজিতে রাখো। যেমন: dynamic programming, amortized analysis, randomized algorithm, graph cut, approximation algorithm, NP-hardness ইত্যাদি।
+
+৯. লেকচারের মধ্যে যদি উদাহরণ, board derivation, বা case analysis থাকে, সেগুলো হারিয়ে ফেলো না। বরং পরিষ্কারভাবে পুনর্গঠন করো।
+
+১০. যদি ট্রান্সক্রিপ্টে অস্পষ্টতা, ভুল transcription, বা missing context থাকে, তাহলে “সম্ভাব্য অর্থ” দিয়ে ব্যাখ্যা করো এবং শেষে “যেসব জায়গায় ট্রান্সক্রিপ্ট অস্পষ্ট” নামে একটি ছোট সেকশন রাখো।
+
+১১. শেষে দাও:
+
+* Key takeaways
+* Important definitions
+* Important algorithms/theorems
+* Formula summary
+* Exam-style questions
+* Research-level intuition বা further thinking
+* কী কী বিষয় revise করা উচিত
+
+১২. নোটের ভাষা হবে পরিষ্কার, ধাপে ধাপে, শিক্ষণীয়, এবং self-contained। ধরে নাও আমি ভিডিও দেখিনি, তাই নোট পড়ে যেন পুরো লেকচার বোঝা যায়।
+
+এখন নিচের ট্রান্সক্রিপ্ট থেকে বিস্তারিত lecture note তৈরি করে .md ফাইলে দেও:
+
+[এখানে লেকচার ট্রান্সক্রিপ্ট পেস্ট করবো]
